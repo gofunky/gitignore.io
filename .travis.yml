@@ -12,17 +12,6 @@ script:
   - brew install vapor/tap/vapor
   - swift build
   - swift test
-notifications:
-  email:
-    recipients:
-    - josephblau@gmail.com
-deploy:
-  provider: heroku
-  strategy: git
-  app: gitignoreio-stage-swift
-  on: master
-  api_key:
-    secure: In+pMxDoWCe5h2oCi20pCpLGLdiqvP1SuWqTkFm1G1LPtZ7LIcIbxlCgiWGlWqaPnwC5n0VkpOEkOSnFZz2E7ffKQuzonvEBUPl5EFLzfJxeHUDWaaMGWfadx2kR21cx/wTyEZseSqeBm77wbKJKU7D6RqRbCS+MxaavQhaJnKk=
 env:
   global:
     - CC_TEST_REPORTER_ID=6133dfb857104f811740c22973bcb412866eba231509f7f8f60a8ad95005ee2b
