@@ -8,4 +8,4 @@ RUN vapor build
 
 EXPOSE 8080
 
-CMD vapor run
+CMD vapor run --hostname=0.0.0.0 --port=8080
