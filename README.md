@@ -1,18 +1,8 @@
-<p align="center">
-    <a href="https://www.gitignore.io">
-        <img src="https://cdn.rawgit.com/joeblau/gitignore.io/master/Public/img/gitignoreio.svg" />
-    </a>
-    <br>
-    <strong>Create useful .gitignore files for your project</strong>
-</p>
-<p align="center">
-    <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-4.1-orange.svg?style=flat-square"/></a>
-    <a href="https://travis-ci.org/gofunky/gitignore.io"><img src="https://img.shields.io/travis/gofunky/gitignore.io.svg?style=flat-square" alt="Travis"></a>
-    <a href="https://codeclimate.com/github/joeblau/gitignore.io/maintainability"><img src="https://img.shields.io/codeclimate/maintainability/joeblau/gitignore.io.svg?style=flat-square" alt="Code Climate Maintainability"></a>
-    <img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?style=flat-square"alt="Platforms">
-    <a href="https://github.com/joeblau/gitignore.io/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/joeblau/gitignore.io.svg?style=flat-square" alt="license"></a>
-    <a class="badge-align" href="https://www.codacy.com/app/gofunky/gitignore.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gofunky/gitignore.io&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/ec8e4f6f54c9427c8a35836ccd9ad308"/></a>
-</p>
+[![](https://cdn.rawgit.com/joeblau/gitignore.io/master/Public/img/gitignoreio.svg)](https://www.gitignore.io)   
+**Create useful .gitignore files for your project**
+
+[![](https://img.shields.io/badge/Swift-4.1-orange.svg?style=flat-square)](https://swift.org) [![Travis](https://img.shields.io/travis/gofunky/gitignore.io.svg?style=flat-square)](https://travis-ci.org/gofunky/gitignore.io) [![Code Climate Maintainability](https://img.shields.io/codeclimate/maintainability/joeblau/gitignore.io.svg?style=flat-square)](https://codeclimate.com/github/joeblau/gitignore.io/maintainability) ![Platforms](https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?style=flat-square) [![license](https://img.shields.io/github/license/joeblau/gitignore.io.svg?style=flat-square)](https://github.com/joeblau/gitignore.io/blob/master/LICENSE.md) [![](https://api.codacy.com/project/badge/Grade/ec8e4f6f54c9427c8a35836ccd9ad308)](https://www.codacy.com/app/gofunky/gitignore.io?utm_source=github.com&utm_medium=referral&utm_content=gofunky/gitignore.io&utm_campaign=Badge_Grade)
+[![](https://images.microbadger.com/badges/image/gofunky/gitignore.io.svg)](https://microbadger.com/images/gofunky/gitignore.io "Get your own image badge on microbadger.com")
 
 ## `.gitignore` Template Source
 
