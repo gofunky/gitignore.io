@@ -7,11 +7,11 @@
 </p>
 <p align="center">
     <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-4.1-orange.svg?style=flat-square"/></a>
-    <a href="https://travis-ci.org/joeblau/gitignore.io"><img src="https://img.shields.io/travis/joeblau/gitignore.io.svg?style=flat-square" alt="Travis"></a>
-    <a href="https://codeclimate.com/github/joeblau/gitignore.io/test_coverage"><img src="https://img.shields.io/codeclimate/coverage/joeblau/gitignore.io.svg?style=flat-square" alt="Code Climate Test Coverage"></a>
+    <a href="https://travis-ci.org/gofunky/gitignore.io"><img src="https://img.shields.io/travis/gofunky/gitignore.io.svg?style=flat-square" alt="Travis"></a>
     <a href="https://codeclimate.com/github/joeblau/gitignore.io/maintainability"><img src="https://img.shields.io/codeclimate/maintainability/joeblau/gitignore.io.svg?style=flat-square" alt="Code Climate Maintainability"></a>
     <img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?style=flat-square"alt="Platforms">
     <a href="https://github.com/joeblau/gitignore.io/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/joeblau/gitignore.io.svg?style=flat-square" alt="license"></a>
+    <a class="badge-align" href="https://www.codacy.com/app/gofunky/gitignore.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gofunky/gitignore.io&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/ec8e4f6f54c9427c8a35836ccd9ad308"/></a>
 </p>
 
 ## `.gitignore` Template Source
